@@ -12,7 +12,7 @@ describe Nagaexchange::Renderer do
       'render_protect' => false,
       'ssl' => {
         'enabled' => 'true',
-        'email' => 'support@nagaexchange.id'
+        'email' => 'support@nagaexchange.co.id'
       },
       'images' => {
         'exchange' => 'exchange:0.0.1',

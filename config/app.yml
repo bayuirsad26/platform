@@ -21,7 +21,7 @@ images:
 vendor:
   frontend: git@github.com:nusatechblockchain/frontend.git
 sapuma:
-  api_endpoint: https://project.nagaexchange.id/api
+  api_endpoint: https://project.nagaexchange.co.id/api
   key: chn2QEA92LgA
   secret: eyJpdiI6IjY3UkRaeWNHdHJvbkxxbzBkNXo3WlE9PSIsInZhbHVlIjoiTDI3b2FhRkwyZk9FYituR2QwdmpvZz09IiwibWFjIjoiNWMzZGNlYjQxMjY3YzI1MzhlNDhkNWZmNzlmNzIwNDA5ZTg0MzBiYjUxODdkZWY5ODI3ZTgwNzBmOTk5OWMzMSIsInRhZyI6IiJ9
 kyc:

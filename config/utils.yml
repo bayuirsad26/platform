@@ -3,7 +3,7 @@ images:
   arke: quay.io/nagaexchange/bot
   superset: amancevice/superset:0.28.1
 superset:
-  email: superset-admin@nagaexchange.id
+  email: superset-admin@nagaexchange.co.id
   username: admin
   password: FMNe0SBi4CsA9A7B
 arke:
